@@ -42,6 +42,11 @@ Por último, con la información obtenida también podremos tener una mejor prev
 
 ## 🔄 Próximos Pasos
 
+Al dar error los ID de hotel en la tabla de reservas y hoteles, se ha modificado en ambos Dataframes.  
+Habria que revisar la integridad de los id en ambos y que ocncuerden.
+
+Con los datos obtenidos se podría analizar el impacto que tienen los eventos cercanos a los hoteles en sus reservas.
+Tambien se podrían obtener datos de relevancia para los hoteles por el perfil del cliente.
 
 
 
